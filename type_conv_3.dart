@@ -7,7 +7,6 @@ void main(){
 }
 */
 
-
 // toString() -> is used to convert int into string
 /*
 void main(){
@@ -17,11 +16,9 @@ void main(){
 }
 */
 
-// toStrin() -> is used to convert int into string 
-void main(){
-    String s = 50.toString();
-    // runtimeType is used to tell which type of variable it is...string, bool, int, double, float etc
-    print(s.runtimeType);
+// toString() -> is used to convert int into string
+void main() {
+  String s = 50.toString();
+  // runtimeType is used to tell which type of variable it is...string, bool, int, double, float etc
+  print(s.runtimeType);
 }
-
-

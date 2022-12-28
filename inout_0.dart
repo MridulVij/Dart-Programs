@@ -1,6 +1,6 @@
 void input(){
     // taking input from user in dart
-    var name = stdin.readLineSync();
+    var name = .readLineSync();
     print("Value is: $name");
 }
 /*
