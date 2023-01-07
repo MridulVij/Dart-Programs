@@ -1,8 +1,11 @@
-void input(){
-    // taking input from user in dart
-    var name = .readLineSync();
-    print("Value is: $name");
+import 'dart:io';
+
+void input() {
+  // taking input from user in dart
+  var name = stdin.readLineSync();
+  print("Value is: $name");
 }
+
 /*
 void output(){
 // Different types of printing formats in dart
@@ -18,8 +21,8 @@ void output(){
     print('Values is: ${a}');
 }
 */
-void main(){
-    //printing
-    input();
-    //output();
+void main() {
+  //printing
+  input();
+  //output();
 }
