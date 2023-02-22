@@ -1,0 +1,19 @@
+1. Convert String to Int
+    String stringVar = "1000";
+    int intVar = int.parse(stringVar);
+    print(intVar);
+
+2. Convert String to Double 
+    String stringVar = "10.000";
+    double doubleVar = double.parse(stringVar);
+    print(doubleVar);
+
+3. Convert Int to String
+    int intVar = 1000;
+    String stringVar = intVar.toString();
+    print(stringVar);
+
+4. Convert Double to Int
+    double doubleVar = "10.000";
+    int intVar = doubleVar.toInt(stringVar);
+    print(intVar);
