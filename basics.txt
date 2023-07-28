@@ -1,0 +1,6 @@
+# compilation process 
+1. AOT - ahead on time - it is worked others device like if i have to share the code in others dvice then the codde will recompile again
+2. JIT - just in time - it is worked on our device and we will see the changes in inside our device app
+
+Advance Dart Code only
+
